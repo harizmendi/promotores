@@ -1,7 +1,7 @@
 <?php
 
 // variables de entorno
-define("base_url", "https://localhost/promotores/");
+define("base_url", "http://localhost/promotores/");
 define("hostname_db", 'localhost');
 define("username_db", 'root');
 define("password_db", '');
