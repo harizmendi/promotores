@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700|Rubik:400,700');
+
+h1 {
+    font-size: 40px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    max-width: 800px;
+    color: #33464B;
+    width: 100%;
+}
+
+h2 {
+    font-size: 34px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    max-width: 800px;
+    color: #33464B;
+    width: 100%;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    max-width: 800px;
+    color: #33464B;
+    width: 100%;
+}
+
+h4 {
+    font-size: 28px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    max-width: 800px;
+    color: #33464B;
+    width: 100%;
+}
+
+h5 {
+    font-size: 24px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    max-width: 800px;
+    color: #33464B;
+    width: 100%;
+}
+
+h6 {
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: #33464B;
+    max-width: 800px;
+    width: 100%;
+}
+
+img {
+    max-width: 800px;
+    width: 100%;
+    display: block;
+    padding: 20px 0;
+}
+
+blockquote {
+    background-image: url('../../../images/interior-valor/blick.png');
+    max-width: 800px;
+    width: 100%;
+    display: block;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    border: none !important;
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+
+em {
+    text-align: right;
+    font-size: 18px;
+    display: block;
+    padding-right: 10px;
+    margin: 10px 0 0 auto;
+    color: #fff;
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
