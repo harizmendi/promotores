@@ -1,0 +1,77 @@
+.pagination a,
+.pagination strong {
+    border-radius: 50%;
+    background: #212d32;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    font-size: 16px;
+    margin: 5px;
+    color: #fff;
+}
+.pagination a:hover,
+.pagination strong {
+    background: #3c8dbc;
+}
+
+.btn-agregar {
+    margin-left: 5px !important;
+}
+
+textarea {
+    resize: none;
+}
+
+.activar {
+    display: inline;
+}
+
+#mensaje-alerta,
+.desactivar,
+.div-guardando,
+.ocultar {
+    display: none;
+}
+
+.div-guardando {
+    line-height: 35px;
+    color: #fff;
+}
+
+.btn-borrar-imagen {
+    position: absolute;
+    margin-left: 1px;
+}
+.acciones__formulario{
+    position: fixed;
+    right: 0;
+    z-index: 2;
+    background: #222d32;
+    padding: 1rem;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    width: -moz-available;          /* WebKit-based browsers will ignore this. */
+    width: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+    width: fill-available;
+}
+
+.footer-pleca {
+    height: 50px;
+}
+
+.calendario-dia {
+    padding-bottom: 20px;
+}
+
+/* paises */
+input[name="pais_iso1"],
+input[name="pais_iso3"] {
+    text-transform: uppercase;
+}
+
+/* productos */
+.checkbox-paises {
+    margin-bottom: 5px;
+}
